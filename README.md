@@ -105,6 +105,23 @@ The system engages users through:
 - **Educational Resources:** The application provides educational resources and tips on flood preparedness and safety measures.
 
 - **Feedback Loop:** Authorities can use citizen-reported data to validate system accuracy and address specific concerns.
+
+# Web App Snapshot
+
+<div align="center">
+    <img src="./saathi-snapshots/dashboard.jpg.png" alt="Image 1" width="50%"/>
+    <img src="./saathi-snapshots/gateway-deployement.jpg" alt="Image 2" width="50%"/>
+    <img src="./saathi-snapshots/realtime-database.jpg" width="50%"/>
+    <img src="./saathi-snapshots/gateway-data.jpg" alt="Image 4" width="50%"/>
+</div>
+
+## Project Demo Video
+
+To get a better understanding of the Flood Management Project's features and functionality, you can watch the project demo video below:
+
+[![Project Demo Video]](https://youtu.be/I3-5uqqEJ_k)
+
+The video provides a visual walkthrough of the real-time monitoring system, universal information dashboard, AI prediction model, user engagement features, and more.
   
 # Website Link
 
@@ -113,6 +130,16 @@ The web application for the Flood Management Project can be accessed at [https:/
 ## Conclusion
 
 This project aims to contribute to flood management in India through a comprehensive approach involving real-time monitoring, information visualization, and AI prediction models. By leveraging advanced technologies and systems, the project endeavors to reduce the impact of floods and create a more resilient future for the citizens of India.
+
+## Credits
+
+This project was developed by Kamal Soni and Mukul Agrawal.
+  
+## Contact
+
+Feel free to reach out to webdevkamal@gmail.com with any questions or inquiries.
+
+
 
 
 
