@@ -109,6 +109,8 @@ The system engages users through:
 # Web App Snapshot
 
 <div align="center">
+    <img src="./saathi-snapshots/node-networking.jpg" alt="Image 1" width="50%"/>
+    <img src="./saathi-snapshots/webapp-design.jpg" alt="Image 2" width="50%"/>
     <img src="./saathi-snapshots/dashboard.jpg.png" alt="Image 1" width="50%"/>
     <img src="./saathi-snapshots/gateway-deployement.jpg" alt="Image 2" width="50%"/>
     <img src="./saathi-snapshots/realtime-database.jpg" width="50%"/>
@@ -121,7 +123,7 @@ To get a better understanding of the Flood Management Project's features and fun
 
 [![Project Demo Video]](https://youtu.be/I3-5uqqEJ_k)
 
-The video provides a visual walkthrough of the real-time monitoring system, universal information dashboard, AI prediction model, user engagement features, and more.
+The video provides a visual walkthrough of the real-time monitoring system, universal information dashboard.
   
 # Website Link
 
